@@ -25,21 +25,20 @@ I wanted to build something that actually resembles — not just a dashboard, bu
 ### Page 1 — Executive Summary
 > KPI tiles + care pathway funnel + readmission by insulin status
 
-![Page 1 - Executive Summary](diabetes dashboard/images/page1_executive_summary.png)
-
+![Page 1 - Executive Summary](diabetes-dashboard/images/page1_executive_summary.png)
 ---
 
 ### Page 2 — Where Risk Concentrates
 > Specialty × Diagnosis heatmap + readmission trend by age + risk segment distribution
 
-![Page 2 - Where Risk Concentrates](diabetes dashboard/images/page2_where_risk_concentrates.png)
+![Page 2 - Where Risk Concentrates](diabetes-dashboard/images/page2_where_risk_concentrates.png)
 
 ---
 
 ### Page 3 — Cost Impact & Intervention Simulator
 > Dual-axis cost exposure chart + medications vs LOS scatter + interactive savings simulator
 
-![Page 3 - Intervention Simulator](diabetes dashboard/images/page3_intervention_simulator.png)
+![Page 3 - Intervention Simulator](diabetes-dashboard/images/page3_intervention_simulator.png)
 
 ---
 
